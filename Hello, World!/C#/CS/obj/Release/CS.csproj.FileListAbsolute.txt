@@ -1,0 +1,8 @@
+D:\星空\Win Linux DOS团队\How to learn programming in 9 lessons\Hello, World!\CS\CS\bin\Release\CS.exe.config
+D:\星空\Win Linux DOS团队\How to learn programming in 9 lessons\Hello, World!\CS\CS\bin\Release\CS.exe
+D:\星空\Win Linux DOS团队\How to learn programming in 9 lessons\Hello, World!\CS\CS\bin\Release\CS.pdb
+D:\星空\Win Linux DOS团队\How to learn programming in 9 lessons\Hello, World!\CS\CS\obj\Release\CS.csproj.AssemblyReference.cache
+D:\星空\Win Linux DOS团队\How to learn programming in 9 lessons\Hello, World!\CS\CS\obj\Release\CS.csproj.SuggestedBindingRedirects.cache
+D:\星空\Win Linux DOS团队\How to learn programming in 9 lessons\Hello, World!\CS\CS\obj\Release\CS.csproj.CoreCompileInputs.cache
+D:\星空\Win Linux DOS团队\How to learn programming in 9 lessons\Hello, World!\CS\CS\obj\Release\CS.exe
+D:\星空\Win Linux DOS团队\How to learn programming in 9 lessons\Hello, World!\CS\CS\obj\Release\CS.pdb

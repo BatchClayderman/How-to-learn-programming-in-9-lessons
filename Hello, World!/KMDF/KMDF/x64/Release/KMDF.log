@@ -1,0 +1,19 @@
+﻿  Building 'KMDF' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\KMDF.inf
+  Stamping [Version] section with DriverVer=07/25/2022,0.25.57.299
+  KMDF.vcxproj -> D:\星空\Win Linux DOS团队\How to learn programming in 9 lessons\Hello, World!\KMDF\x64\Release\KMDF.sys
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\星空\Win Linux DOS团队\How to learn programming in 9 lessons\Hello, World!\KMDF\x64\Release\KMDF\kmdf.cat
+  Done Adding Additional Store
+  Successfully signed: D:\\Win Linux DOS\How to learn programming in 9 lessons\Hello, World!\KMDF\x64\Release\KMDF\kmdf.cat
+  
